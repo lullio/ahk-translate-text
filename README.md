@@ -1,0 +1,1 @@
+# ahk-translate-text
